@@ -8,7 +8,7 @@
 [ext_resource type="PackedScene" uid="uid://blbxgv5i042mn" path="res://escenas/Enemigo.tscn" id="4_y30om"]
 [ext_resource type="PackedScene" uid="uid://b0kip1stqegow" path="res://escenas/EnemigoVolador.tscn" id="6_ej1n1"]
 [ext_resource type="PackedScene" uid="uid://7st2fjxi8hoq" path="res://escenas/EnemigoToro.tscn" id="8_tj3du"]
-[ext_resource type="PackedScene" uid="uid://ceyalroi2c38y" path="res://escenas/hud.tscn" id="9_tj3du"]
+[ext_resource type="PackedScene" uid="uid://ceyalroi2c38y" path="res://escenas/HUD.tscn" id="9_tj3du"]
 [ext_resource type="AudioStream" uid="uid://vl4cw7ycqcvc" path="res://sounds/musicaFondo.ogg" id="10_hj8ey"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_nx6ol"]
